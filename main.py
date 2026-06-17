@@ -30,7 +30,7 @@ class MotorAntifraudeAvancado:
             self.grafo.add_edge(user, tel, device_id=t["device_id"], horario=t["horario"], relacao="USOU_TELEFONE")
 
     def executar_analise_redes(self):
-        """Varredura em duas fases para identificar padrões complexos sem gerar falsos positivos"""
+        # A varredura ocorre em duas fases para identificar padrões sem gerar falsos positivos
         print("="*80)
         print("🛡️  NUBANK GLOBAL SECURITY RADAR - MOTOR DE GRAFOS V2")
         print("="*80)
