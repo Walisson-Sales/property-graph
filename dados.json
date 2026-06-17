@@ -1,0 +1,42 @@
+[
+  {
+    "usuario": "Carlos Silva",
+    "telefone": "+55 11 99999-1111",
+    "ip_acesso": "192.168.1.50",
+    "cartao": "Visa **** 4321",
+    "device_id": "WIN-EMULADOR-99",
+    "horario": "23:01:05"
+  },
+  {
+    "usuario": "Ana Souza (Conta Suspeita)",
+    "telefone": "+55 11 99999-1111",
+    "ip_acesso": "200.100.50.1",
+    "cartao": "Master **** 8888",
+    "device_id": "WIN-EMULADOR-99",
+    "horario": "23:01:08"
+  },
+  {
+    "usuario": "Roberto Lima",
+    "telefone": "+55 21 88888-2222",
+    "ip_acesso": "192.168.1.50",
+    "cartao": "Amex **** 1111",
+    "device_id": "WIN-EMULADOR-99",
+    "horario": "23:01:12"
+  },
+  {
+    "usuario": "Maria (Mãe Legítima)",
+    "telefone": "+55 83 77777-7777",
+    "ip_acesso": "177.40.20.1",
+    "cartao": "Elo **** 5555",
+    "device_id": "IPHONE-13",
+    "horario": "08:30:00"
+  },
+  {
+    "usuario": "João (Filho Legítimo)",
+    "telefone": "+55 83 77777-7777",
+    "ip_acesso": "177.40.20.1",
+    "cartao": "Nubank **** 0000",
+    "device_id": "PC-GAMER-DELL",
+    "horario": "15:45:00"
+  }
+]
