@@ -1,0 +1,21 @@
+# Ambientes Virtuais
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configurações de IDEs e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
