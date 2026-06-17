@@ -5,7 +5,9 @@
     "ip_acesso": "192.168.1.50",
     "cartao": "Visa **** 4321",
     "device_id": "WIN-EMULADOR-99",
-    "horario": "23:01:05"
+    "horario": "23:01:05",
+    "tipo_conexao": "VPN_Hosting",
+    "geolocalizacao": "São Paulo-SP"
   },
   {
     "usuario": "Ana Souza (Conta Suspeita)",
@@ -13,7 +15,9 @@
     "ip_acesso": "200.100.50.1",
     "cartao": "Master **** 8888",
     "device_id": "WIN-EMULADOR-99",
-    "horario": "23:01:08"
+    "horario": "23:01:08",
+    "tipo_conexao": "VPN_Hosting",
+    "geolocalizacao": "São Paulo-SP"
   },
   {
     "usuario": "Roberto Lima",
@@ -21,7 +25,19 @@
     "ip_acesso": "192.168.1.50",
     "cartao": "Amex **** 1111",
     "device_id": "WIN-EMULADOR-99",
-    "horario": "23:01:12"
+    "horario": "23:01:12",
+    "tipo_conexao": "VPN_Hosting",
+    "geolocalizacao": "São Paulo-SP"
+  },
+  {
+    "usuario": "Lucas (Conta Hackeada)",
+    "telefone": "+55 83 98888-3333",
+    "ip_acesso": "192.168.1.50",
+    "cartao": "Nubank **** 9999",
+    "device_id": "WIN-EMULADOR-99",
+    "horario": "23:01:45",
+    "tipo_conexao": "VPN_Hosting",
+    "geolocalizacao": "São Paulo-SP"
   },
   {
     "usuario": "Maria (Mãe Legítima)",
@@ -29,7 +45,9 @@
     "ip_acesso": "177.40.20.1",
     "cartao": "Elo **** 5555",
     "device_id": "IPHONE-13",
-    "horario": "08:30:00"
+    "horario": "08:30:00",
+    "tipo_conexao": "Residencial",
+    "geolocalizacao": "João Pessoa-PB"
   },
   {
     "usuario": "João (Filho Legítimo)",
@@ -37,6 +55,28 @@
     "ip_acesso": "177.40.20.1",
     "cartao": "Nubank **** 0000",
     "device_id": "PC-GAMER-DELL",
-    "horario": "15:45:00"
+    "horario": "15:45:00",
+    "tipo_conexao": "Residencial",
+    "geolocalizacao": "João Pessoa-PB"
+  },
+  {
+    "usuario": "Eduardo (Faculdade)",
+    "telefone": "+55 81 91111-2222",
+    "ip_acesso": "200.200.200.200",
+    "cartao": "Visa **** 7711",
+    "device_id": "SAMSUNG-S24",
+    "horario": "12:00:10",
+    "tipo_conexao": "Rede_Publica",
+    "geolocalizacao": "Recife-PE"
+  },
+  {
+    "usuario": "Gabriela (Faculdade)",
+    "telefone": "+55 81 92222-3333",
+    "ip_acesso": "200.200.200.200",
+    "cartao": "Master **** 5522",
+    "device_id": "XIAOMI-14",
+    "horario": "12:00:45",
+    "tipo_conexao": "Rede_Publica",
+    "geolocalizacao": "Recife-PE"
   }
 ]
